@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ServiceLib</id>
+    <version>$version$</version>
+    <authors>FluttercordKN</authors>
+    <owners>FluttercordKN</owners>
+    <copyright>on punch in ur face if copy</copyright>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <description>My test service</description>
+    <tags>knoema csharp</tags>
+    <iconUrl>http://knoema.com/favicon.png</iconUrl>
+    <!--<dependencies>
+    </dependencies>-->
+  </metadata>
+</package>
