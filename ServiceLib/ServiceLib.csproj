@@ -4,7 +4,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageOutputPath>Nuget package</PackageOutputPath>
     <TargetFrameworks>netstandard2.0;netcoreapp2.0;net45</TargetFrameworks>
-    <AssemblyVersion>$version$</AssemblyVersion>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
   </PropertyGroup>
 
 </Project>
