@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ServiceLib\ServiceLib.csproj">
-      <Project>{e8c95ea0-0662-465c-818f-33577ab238d4}</Project>
+      <Project>{e2063701-0767-48c9-9a3c-40428eb591d8}</Project>
       <Name>ServiceLib</Name>
     </ProjectReference>
   </ItemGroup>
